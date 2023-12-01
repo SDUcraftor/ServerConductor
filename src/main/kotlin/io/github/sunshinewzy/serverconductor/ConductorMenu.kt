@@ -22,7 +22,7 @@ object ConductorMenu {
         name = "&b镜像服 - Mirror"
         lore += ""
         lore += "&f1.20.1 生存服的镜像"
-        lore += "&f创造模式！想⼲什么就⼲什么"
+        lore += "&f创造模式！想干什么就干什么"
         colored()
     }
     private val itemCreative = buildItem(Material.CRAFTING_TABLE) {
